@@ -3,6 +3,7 @@ using namespace std;
 #include<math.h>
 #define Max 100
 aaa
+bbb
 
 void Nhapmatran(int a[][Max], int &m, int &n);
 void Xuatmatran(int a[][Max], int m, int n);
