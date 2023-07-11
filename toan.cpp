@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 #include<math.h>
-#define Max 100 aaaa
+#define Max 100
 
 
 void Nhapmatran(int a[][Max], int &m, int &n);
